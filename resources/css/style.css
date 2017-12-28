@@ -16,12 +16,17 @@ h1 {
   color: white;
   }
 
+  p {
+    color: grey;
+    font-size: 21px;
+  }
+
  .download-cta {
    font-size: 16px;
    color: aquamarine;
  }
 
- p {
+ .footer {
+   text-align: right;
    color: grey;
-   font-size: 21px;
  }
