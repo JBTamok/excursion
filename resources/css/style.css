@@ -1,16 +1,27 @@
 body  {
   background-color: black;
   text-align: center;
+  font-family: verdana;
 }
 
 h1 {
-  font-family: verdana;
+
   font-size: 50px;
   color: white;
  }
 
- .download-cta {
+ h2 {
+  font-weight: bold;
+  font-size: 42px;
+  color: white;
+  }
 
+ .download-cta {
    font-size: 16px;
    color: aquamarine;
+ }
+
+ p {
+   color: grey;
+   font-size: 21px;
  }
